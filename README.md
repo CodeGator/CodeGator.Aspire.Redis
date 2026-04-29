@@ -1,7 +1,7 @@
 ## CodeGator.Aspire.Redis: 
 ---
 
-[![Build Status](https://dev.azure.com/codegator/CodeGator.Aspire.Redis/_apis/build/status%2FCodeGator.CodeGator.Aspire.Redis?branchName=main)](https://dev.azure.com/codegator/CodeGator.Aspire.Redis/_build/latest?definitionId=127&branchName=main)
+[![Build Status](https://dev.azure.com/codegator/CodeGator.Aspire.Redis/_apis/build/status%2FCodeGator.CodeGator.Aspire.Redis?branchName=main)](https://dev.azure.com/codegator/CodeGator.Aspire.Redis/_build/latest?definitionId=132&branchName=main)
 
 ![NuGet Version](https://img.shields.io/nuget/v/CodeGator.Aspire.Redis)
 
