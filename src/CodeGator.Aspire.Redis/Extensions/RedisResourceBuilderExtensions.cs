@@ -70,7 +70,7 @@ public static partial class RedisResourceBuilderExtensions
 
     [LoggerMessage(
         EventId = 1000,
-        Level = LogLevel.Information,
+        Level = LogLevel.Debug,
         Message = "Updating resource state: {ResourceSnapshot}")]
     private static partial void ZLogUpdatingResourceState(
         ILogger logger,
